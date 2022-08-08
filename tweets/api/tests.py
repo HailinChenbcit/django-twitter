@@ -19,7 +19,7 @@ class TweetApiTests(TestCase):
             for i in range(3)
         ]
         self.user1_client = APIClient()
-        self.user1_client.force_authenticate(self.user1)
+        self.user1_client.force_authenticate(self.user1) # force_authenticate specific user
 
         self.user2 = self.create_user('user2', 'user2@jiuzhang.com')
         self.tweets2 = [
