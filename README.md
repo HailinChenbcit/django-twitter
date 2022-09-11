@@ -28,12 +28,27 @@ Content of the project folder:
 
 ```
 Top level of project folder:
-
-
-It has the following subfolders and files:
-
-
-Scripts files in source file:
+│   .gitignore
+│   bionic64.box
+│   db.sqlite3
+│   manage.py
+│   mysql-apt-config_0.8.15-1_all.deb
+│   provision.sh
+│   README.md
+│   requirements.txt
+│   Vagrantfile
+├───.idea
+├───.vagrant
+├───accounts
+├───comments
+├───friendships
+├───inbox
+├───likes
+├───newsfeeds
+├───testing
+├───tweets
+├───twitter
+└───utils
 
 ```
 
@@ -102,6 +117,6 @@ python manage.py runserver 0.0.0.0:8000
 - Vagrant: https://www.vagrantup.com/
 
 ## Contact
-Hailin Chen - hchen256@my.bcit.ca
+Hailin Chen - hchen256@my.bcit.ca  
 LinkedIn: https://www.linkedin.com/in/hailin-c-75655a165/
 
