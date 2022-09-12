@@ -4,11 +4,10 @@
 - [Content](#content)
 - [Technologies](#technologies)
 - [Resources](#resources)
-- [How To Run WorryLess Locally](#how-to-run-worryless-locally)
+- [How To Run Locally](#how-to-run-locally)
 - [Features](#features)
 - [Attribution](#attribution)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 ## General Info
 
