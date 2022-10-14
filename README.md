@@ -45,7 +45,6 @@ Technologies used for this project:
 - MySQL
 - Hbase: Key-value store to split db queries for tables which ahs less reads and lot writes
 - Redis, Memcached: Reduce db queries for tables Which has lot reads and less writes
-- Amazon S3 
 - Message Queue: for async tasks, reduce response times
 - Rest API 
 - Serialization, 
