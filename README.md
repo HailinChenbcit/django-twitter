@@ -101,6 +101,6 @@ python manage.py runserver 0.0.0.0:8000
 - Vagrant: https://www.vagrantup.com/
 
 ## Contact
-Hailin Chen - hchen256@my.bcit.ca
-LinkedIn: https://www.linkedin.com/in/hailin-c-75655a165/
+* Hailin Chen - hchen256@my.bcit.ca
+* LinkedIn: https://www.linkedin.com/in/hailin-c-75655a165/
 
